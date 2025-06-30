@@ -36,7 +36,7 @@ In the future, standardized routing based on metadata and prefix-level registrat
   
 ---
 
-Copyright 2025 Actio Inc.
+Copyright 2025 Actio Labs Inc.
 
 Licensed under the Apache License, Version 2.0 (the "License");
 you may not use this file except in compliance with the License.
